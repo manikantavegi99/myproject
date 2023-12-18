@@ -1,0 +1,5 @@
+public class Apple{
+public static void main(string[]args){
+system.out.println("first java code")
+}
+}
